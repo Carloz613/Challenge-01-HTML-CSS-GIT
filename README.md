@@ -1,2 +1,2 @@
-# Challenge-01-HTML-CSS-GIT
-Taking a starter code and refracting it to make it more accessible.  
+# Password Generator Starter Code
+This repo includes a html, css, and Js file for my password generator. Mainly focusing on JavaScript i added a function to generate the password then created the a variable for all the characters that can be included in the password.
